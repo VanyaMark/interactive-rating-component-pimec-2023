@@ -12,3 +12,9 @@ Os adjunto la demo para que veaís fácilmente como funciona la app. No inspecci
 5. Bonus! Puedes hacer que al seleccionar un valor, se quede marcado en naranja.
 
 ## Pregunta 1: Describe con lenguaje natural que tiene que hacer la app.
+
+- On hover de los números cambiar la clase de los números (hecho)
+- On click de los números activar el botón submit (mouse tiene que convertirse en pointer, el color cambia a naranja y se puede clickar)
+- al clickar submit vamos a la pantalla Thank You! 
+- guardar el número seleccionado y mostrarlo en la pantalla Thank you!
+- bonus ya veremos
